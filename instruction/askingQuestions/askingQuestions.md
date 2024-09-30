@@ -42,6 +42,13 @@ Here is a good template to follow when asking a question:
 
 > When working on assignment `A`, I was successfully able to do `1`, `2`, and `3`, but then I did `B`, as instructed by `C`, and got the result `D`, with an error of `E`. I was expecting `F`. I thought maybe `G` or `H` might be the problem, but I saw that `J` already tried that without success as discussed here on `K`. Any help is greatly appreciated.
 
+## Working with the TA's
+
+The TA's are here to help you succeeed. In order for the TA's to help you most effectively, please do the following before/while meeting with them:
+
+1. Make sure you are able to share your screen over discord. Given the complexity of the assignments, it is extremely difficult for the TA's to help diagnos any problems without being able to see the your screen. Without the ability to see your screen, TA's are left to only guess at what is happening. 
+2. Be willing to try things the TA's suggest. The TA's may not always be correct but they might see something you may have either overlooked or have experience in fixing themselves or for another student.
+
 ## Pay it forward
 
 Always remember how it felt to receive help. Actively look for opportunities to help others in a kind respectful way. After all, that is the Gospel of Jesus Christ at its core. We are a team. We are better together.
