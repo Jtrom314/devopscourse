@@ -208,6 +208,7 @@ In order to demonstrate your mastery of the concepts for this deliverable, compl
    1. Press the `Export` tab and `Save to file`.
    1. Name the file `grafana/deliverable8dashboard.json`
 1. Commit and push your changes so that they are running in your production environment.
+1. Simulate traffic to ensure all metrics and submetrics display nonzero data, demonstrating proper metric recording.
 
 Once this is all working you should have something like this:
 
